@@ -1,2 +1,5 @@
 *.exe
-*/.vscode
+/.vscode
+/array/.vscode
+/array/eassy/.vscode
+/array/.vscode
