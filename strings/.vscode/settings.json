@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "limits": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "print-all-duplicates": "cpp"
+    }
+}
